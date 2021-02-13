@@ -8,7 +8,7 @@
 **Return Type : JSON** 
 
 # Example url 
-## ** http://localhost:3000/api/timestamp/2020-12-11 **
+## **http://localhost:3000/api/timestamp/2020-12-11**
 
 # Example Output 
 ## {"unix":1607644800000,"utc":"Fri, 11 Dec 2020 00:00:00 GMT"}
